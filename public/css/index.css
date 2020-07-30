@@ -1,0 +1,12 @@
+
+body {
+    background-color: black;
+}
+
+h1, h3, label {
+    color: #f2f2f2;
+}
+
+#root {
+    min-height: calc(100vh - var(--bodyPaddingTop));
+}
